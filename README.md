@@ -1,0 +1,6 @@
+- Hi, I’m @wrdxman
+- I have had a 25 year career in Operations and Policy management in an SAAS environment, but I have always been drawn to coding.
+- I would be interested in starting a new career as an entry level programmer so that I can build this skill.
+- I am currently learning Git/Github, and have been working on little projects in C++ lately.
+- I am using Github as a method to organize the exercises I work on
+- I can be reached at ward.xman@gmail.com
